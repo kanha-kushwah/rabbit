@@ -72,7 +72,7 @@ import Slovenia from "../assets/logo/slovenia.svg";
 import SouthAfrica from "../assets/logo/south-africa.svg";
 
 import Spain from "../assets/logo/spain.svg";
-import SriLanka from "../assets/logo/sriLanka.svg";
+import SriLanka from "../assets/logo/srilanka.svg";
 import Sweden from "../assets/logo/sweden.svg";
 import Tanzania from "../assets/logo/tanzania.svg";
 import Thailand from "../assets/logo/thailand.svg";
