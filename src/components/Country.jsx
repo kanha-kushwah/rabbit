@@ -50,7 +50,7 @@ import Monaco from "../assets/logo/monaco.svg";
 import Mozambique from "../assets/logo/mozambique.svg";
 import Nepal from "../assets/logo/nepal.svg";
 import Netherlands from "../assets/logo/netherlands.svg";
-import NewZealand from "../assets/logo/newZealand.svg";
+import Newzealand from "../assets/logo/newzealand.svg";
 import Nigeria from "../assets/logo/nigeria.svg";
 
 import NorthernIreland from "../assets/logo/northern-ireland.svg";
@@ -261,7 +261,7 @@ const countryList = [
   },
   {
     name: "NewZealand",
-    imageSrc: NewZealand,
+    imageSrc: Newzealand,
   },
   {
     name: "Nigeria",
