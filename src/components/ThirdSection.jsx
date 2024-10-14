@@ -5,7 +5,7 @@ import Uae from "../assets/logo/uae.svg";
 import Germany from "../assets/logo/germany.svg";
 import Canada from "../assets/logo/canada.svg";
 import Usa from "../assets/logo/usa.svg";
-import NewZealand from "../assets/logo/newzealand.svg";
+import Newzealand from "../assets/logo/newzealand.svg";
 import Australia from "../assets/logo/australia.svg";
 import Uk from "../assets/logo/uk.svg";
 import Singapore from "../assets/logo/singapore.svg";
@@ -28,7 +28,7 @@ const ThirdSection = () => {
           { logo: Australia, label: "Ship to Australia" },
           { logo: Uk, label: "Ship to UK" },
           { logo: Uae, label: "Ship to UAE" },
-          { logo: NewZealand, label: "Ship to New Zealand" },
+          { logo: Newzealand, label: "Ship to New Zealand" },
           { logo: Germany, label: "Ship to Germany" },
           { logo: Malaysia, label: "Ship to Malaysia" },
           { logo: Singapore, label: "Ship to Singapore" },
